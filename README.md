@@ -8,7 +8,7 @@ This project sync my vim plugins, color schemes and settings
 ## How to sync plugins 
 
 ### Add submodules to your vim
-    git submodule add https://github.com/L`okaltog/vim-powerline.git
+    git submodule add https://github.com/Lokaltog/vim-powerline.git
     git add .
     git commit -m 'adding vim powerline submodule'
 
