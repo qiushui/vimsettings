@@ -1,6 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =6
 let g:netrw_dirhist_1='/home/hjw'
 let g:netrw_dirhist_2='/home/hjw/Dropbox/stdyun_blog/source'
 let g:netrw_dirhist_3='/home/hjw/Github/xiamiAutoCheckIn'
 let g:netrw_dirhist_4='/home/hjw/.vim'
+let g:netrw_dirhist_5='/home/hjw/Github/svim'
+let g:netrw_dirhist_6='/home/hjw/Github/wiki/php/local'

@@ -34,3 +34,9 @@
 [submodule "bundle/vim-rails"]
 	path = bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "sgmlendtag"]
+	path = sgmlendtag
+	url = https://github.com/ervandew/sgmlendtag.git
