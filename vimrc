@@ -32,7 +32,8 @@ set expandtab "replace tab with spaces
 set bs=indent,eol,start
 set history=50
 set autoindent
-set number
+"set number
+set nonu
 set hlsearch
 set nocursorline
 "set cursorline
